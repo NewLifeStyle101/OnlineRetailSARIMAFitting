@@ -1,6 +1,8 @@
 # OnlineRetailSARIMAFitting
 ## Project Overview
 ## Previous Work
+- ARIMA: https://github.com/NewLifeStyle101/OnlineRetailARIMAFitting
+- EDA: https://github.com/NewLifeStyle101/OnlineRetailEDA
 ## Dataset
 - Name: Online Retail Dataset
 - Source: UCI Machine Learning Repository
