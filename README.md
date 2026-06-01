@@ -51,7 +51,8 @@ Multiple seasonal periods (4, 8, 12 weeks) have been evaluated using SARIMA mode
 - Revenue spikes are possibly influenced by irregular events such as holidays or promotions
 - Weak seasonal signals limit the effectiveness of the seasonal forecasting model
 ## Future Work
-- Explore machine learning techniques for weekly revenue forecasting and compare them to the SARIMA baseline
+- Develop a SARIMAX model and compare it to the current SARIMA model
+- Explore machine learning techniques for weekly revenue forecasting
 - Explore holiday\event-based forecasting features
 ## Tech Stack
 - Python
